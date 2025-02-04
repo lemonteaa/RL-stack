@@ -1,0 +1,6 @@
+torchrl
+gym
+matplotlib
+mujoco
+imageio
+av
